@@ -1,0 +1,7 @@
+shiny
+shinydashboard
+dplyr
+ggplot2
+lubridate
+plotly
+DT
